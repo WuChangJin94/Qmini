@@ -14,7 +14,7 @@
 
 **Mechanical Structure:**
 
-- [STEP files](STEP/Qmini_v1_0.STEP.zip) for all mechanical components
+- [STEP files](STEP_file/Qmini_v1_0.STEP.zip) for all mechanical components
 - Assembly SOP (Standard Operating Procedure)
 
 **Software:**
